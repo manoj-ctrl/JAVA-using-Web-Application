@@ -1,4 +1,9 @@
-Day 1>>>>
+Day 1 >>>> Start
 
 1. Design the HTML file index.html
-2  
+2. Install NetBeans IDE in PC.
+3. Create New Project( ctri+shift+N ).
+4. Correct the all steps and install extrnal app in  create new project.
+
+
+END <<<<<
